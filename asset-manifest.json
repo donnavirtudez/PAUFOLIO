@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PAUFOLIO/static/css/main.472ac673.css",
+    "main.js": "/PAUFOLIO/static/js/main.982d697b.js",
+    "static/js/453.b1105faa.chunk.js": "/PAUFOLIO/static/js/453.b1105faa.chunk.js",
+    "static/media/project-1.png": "/PAUFOLIO/static/media/project-1.5f98d83ce428a3af8abe.png",
+    "static/media/project-7.png": "/PAUFOLIO/static/media/project-7.a4d068b13971950fbb35.png",
+    "static/media/project-4.png": "/PAUFOLIO/static/media/project-4.10ac7723a831c266bc41.png",
+    "static/media/project-6.png": "/PAUFOLIO/static/media/project-6.d8a14ca3cc0b39f9e1e8.png",
+    "static/media/donna_virtudez_cv.pdf": "/PAUFOLIO/static/media/donna_virtudez_cv.2461308f8e359c500582.pdf",
+    "static/media/project-2.png": "/PAUFOLIO/static/media/project-2.e5cb39ea530e39e07ea4.png",
+    "static/media/project-8.png": "/PAUFOLIO/static/media/project-8.2e08069a38ef3cb3cd3c.png",
+    "static/media/project-5.png": "/PAUFOLIO/static/media/project-5.9e9443d26de215280f34.png",
+    "static/media/avatar.png": "/PAUFOLIO/static/media/avatar.84e06da525d2f17282b4.png",
+    "static/media/project-3.png": "/PAUFOLIO/static/media/project-3.1bd1f95491cae5baddaf.png",
+    "index.html": "/PAUFOLIO/index.html",
+    "main.472ac673.css.map": "/PAUFOLIO/static/css/main.472ac673.css.map",
+    "main.982d697b.js.map": "/PAUFOLIO/static/js/main.982d697b.js.map",
+    "453.b1105faa.chunk.js.map": "/PAUFOLIO/static/js/453.b1105faa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.472ac673.css",
+    "static/js/main.982d697b.js"
+  ]
+}
